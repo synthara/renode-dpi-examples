@@ -1,3 +1,6 @@
 [submodule "samples/cxr2"]
 	path = samples/cxr2
 	url = git@github.com:synthara/S-RCI-Renode-CXR-Integration.git
+[submodule "samples/cxr3"]
+	path = samples/cxr3
+	url = git@github.com:synthara/S-RCI-Renode-CXR3-Integration.git
